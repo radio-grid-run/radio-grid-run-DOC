@@ -1,0 +1,6 @@
+[book]
+authors = ["Frédéric Noyer"]
+language = "fr"
+multilingual = false
+src = "src"
+title = "Radio Grid Run Documentation"
