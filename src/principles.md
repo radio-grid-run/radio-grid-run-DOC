@@ -1,4 +1,4 @@
-# Radio Grid Run - Introduction
+# Principes du Radio Grid Run
 
 ## 1. Buts
 Le Radio Grid Run se joue à partir d'une base de réception (ci-après [base](definitions.md#Base)) où se trouve un·e opérateur·trice (ci-après [opérateur](definitions.md#Opérateur)) qui est à l'écoute. Des équipes de 2-3 personnes (ci-après [team](definitions.md#Team) s'affrontent.
