@@ -1,7 +1,8 @@
 # Summary
 
-[Introduction](./summary_principles.md)
+[Introduction](./README.md)
 
+[Principes](./principles.md)
 - [Règles du RGR en général](general/rgr_general_rules.md)
     - [Esprit et objectifs](general/spirit.md)    
     - [Rôles](general/roles.md)
