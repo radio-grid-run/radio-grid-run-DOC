@@ -1,2 +1,0 @@
-# Variantes de manche
-
