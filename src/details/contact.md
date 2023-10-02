@@ -11,7 +11,8 @@ Un contact doit se passer de la manière suivante pour être validé: :
 1) le code w3w valide est reçu par la base
 2) la transmission a eu lieu pendant les rendez-vous autorisés
 3) l'équipe n'a pas le droit de se déplacer pendant tout le temps du *contact*.
-4) Pour prouver qu'elle est bien à l'endroit prévu, l'équipe envoie un capture d'écran de l'application what3words à l'arbitre avec le w3w correspondant et l'heure correspondant au contact avant la fin du temps réglementaire. A l'exception de la capture d'écran du dernier contact que le team peut transmettre après la fin du temps réglementaire.
+4) Pour prouver qu'elle est bien à l'endroit prévu, l'équipe fournit une capture d'écran de l'application what3words à l'arbitre avec le w3w correspondant et l'heure correspondant au contact.
+5) L'équipe a rempli sa feuille de route de manière complète et lisible.
 
 L'arbitre est seul juge pour déterminer si un contact est valide.
 

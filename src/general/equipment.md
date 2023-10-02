@@ -2,14 +2,21 @@
 
 Les appareils utilisés pour les transmissions sont des PMR 446Mhz et max 0,5W de puissance d'émission.
 
-# Matériel nécessaire
+# Matériel de la responsabilité des teams
 
-- Demander aux participants d'amener leur propre PMR446
-- Carte par équipe de la zone de jeu (stratégie) et un crayon
-- Téléphone portable par équipe (connexion data) avec l'application de cartographie what3words (pas nécessaire de disposer nécessaire what3words.com)
-- Ordinateur pour décompter la surface du territoire de chaque équipe à la fin du jeu
+- un talkie-walkie (PMR446) avec **la batterie complètment chargée** TODO: déterminer la gamme de fréquence à utiliser (LDP, PMR canaux traditionnels ou PMR nouveaux canaux)
+- Téléphone portable par équipe avec **la batterie complètement chargée**, une connexion data, l'application de cartographie [what3words](https://what3words.com/products/what3words-app) installée.
+- De quoi écrire (crayon)
+
+Nota: *le team est responsable que le matériel fonctionne pendant la durée du match. Cela équivaut à connexion data, batteries et installation de l'app de carthographie.*
+
+# Matériel à préparer par l'organisation
+
+- Carte imprimée par équipe de la zone de jeu (pour la stratégie)
+- Ordinateur pour décompter la surface du territoire de chaque équipe à la fin du jeu. Le script python [rgrHelper](https://github.com/radio-grid-run/rgrHelper) est conçu spécifiquement à cet usage.
+- Autand de chronomètres qu'il y a d'équipes pour l'arbitre.
 
 # Matériel optionnel
 
-- on peut faciliter la tâche aux équipe en leur founrissant un chronomètre qui donne à tous moment le temps de la manche.
-- un enregistreur pour l'enregistrement des manches par l'arbitre (en cas de protestation)
+- Les équipes peuvent utiliser un chronomètre pour avoir une information précise du timing de la manche.
+- Enregistrer les communications de la fréquence du jeu permet de résoudre les litiges et les évenutels incompréhensions entre base et team.
