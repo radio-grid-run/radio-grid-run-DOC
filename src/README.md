@@ -4,6 +4,9 @@ Le **Radio Grid Run (RGR)** est une activité sportive qui mèle communication r
 
 Elle a pour but de promouvoir l'usage de la radio communication sur le terrain. Par le jeu on peut faire l'expérience du caractère particulier des contacts que la radio permet.
 
+![Territoire comparés de deux team](images/6da722d2_ill_result_round.png)
+
+
 ---
 
 ### Author

@@ -4,35 +4,40 @@
 
 Le déroulement temporel d'une manche se passe comme suit:
 
-- 15min avant le départ: étude de la carte et décision stratégie par équipe
+- 5min avant le départ: étude de la carte et décision stratégie par équipe
 - 0:00 départ
 - 0:15 à 0:20 (1er *rendez-vous*)
 - 0:30 à 0:35 (2e *rendez-vous*)
 - 0:45 à 0:50 (3e *rendez-vous*)
 - 0:55 à 1:00 (rendez-vous bonus)
 - 1:00 fin du temps réglementaire
-- 1:15 débriefing à la base
+- 1:05 dernier délai pour le retour à la base
+- 1:05-1:15 débriefing
 
-La gestion du timing est fait par la *base* qui annonce par radio une fois par minute le temps restant avant le prochain rendez-vous (ci-après heartbeat). Les équipes peuvent ainsi vérifier si elles sont toujours à portée d'émission. Pendant la durée d'un *rendez-vous*, l'opérateur en annonce le début. L'opérateur initie un *contact* en donnant la parole à l'une des équipes qui l'appelle avec les mots "Team XXX, à vous". Le *team* transmet ses 3 mots. La base répète les mots reçus pour confirmer. La base clôt un *contact* en émettant les mots "base à l'écoute".
+Le timing de la manche est rythmé par l'opérateur qui annonce par radio une fois par minute le temps restant avant le prochain rendez-vous (ci-après heartbeat). Les équipes peuvent ainsi vérifier si elles sont toujours à portée d'émission.
 
-Les team au complet doivent se présenter à la base 15 minutes précisément après la fin du temps réglementaire. Les équipes ont 5 minutes de marge. Si une équipe se présente avec plus de 5 minutes de retard au débriefing, elle ne peut par marquer de points à cette manche.
+L'opérateur annonce le début d'un rendez-vous. Les équipes peuvent appeler dès qu'elles sont prêtes. L'opérateur initie un *contact* en donnant la parole à l'une des équipes qui l'appelle avec les mots "Team XXX, à vous". Le *team* transmet ses 3 mots. La base répète les mots reçus dans l'aphabète radio pour confirmer. L'équipe doit confirmer. La base clôt un *contact* en émettant les mots "base à l'écoute". Elle est alors disponible pour l'équipe suivante.
+
+Les team au complet doivent se présenter à la base 5 minutes précisément après la fin du temps réglementaire. Si une équipe se présente au complet dans le temps imparti, elle reçoit une pénalité par membre de l'équipe manquant.
 
 ## Variantes de manche
-
-### Manche explorateurs
-
-Les team n'ont le droit d'utiliser le téléphone portable que pour déterminer leur position au moment du rendez-vous.
-
-Ils n'ont pas de moyens pour déterminer le temps exacte du jeu autre que les appels à chaque minute par la base.
-Ils n'ont pas de moyens pour se situer autre que la carte papier.
 
 ### Manche Blitz
 
 ** Principe **
 
-La durée totale de la manche est réduite (à tester 20 min). Le nombre de contacts que l'équipe peut faire est limité à 3. Si l'équipe en fait plus, elle doit désigner lesquels sont confirmés.
+La durée totale de la manche est réduite. Il n'y a que 3 rendez-vous. Si une équipe initie le contact dans la fenêtre temporelle du rendez-vous, elle a le droit de terminer le contact jusqu'à 1 minute au-delà du rendez-vous. Il n'est pas possible d'initier un contact après la fin d'un rendez-vous.
 
-La base enregistre les contacts pendant toute la durée du jeu. Un contact doit être initié avant la fin du temps réglementaire. S'il dépasse celui-ci, il peut être terminé au-delà de la limite.
+Le timing d'un blitz est le suivant:
+- 5min avant le départ: étude de la carte et décision stratégie par équipe
+- 0:00 départ
+- 0:05 à 0:10 (1er *rendez-vous*)
+- 0:15 à 0:20 (2e *rendez-vous*)
+- 0:25 à 0:30 (3e *rendez-vous*)
+- 0:30 fin du temps réglementaire
+- 0:35 dernier délai 
+
+Attention dant un blitz, ne pas pouvoir transmettre de point équivaut à ne pas marquer de point (pas de polygone avec 2 localisation ou moins, donc pas de surface).
 
 ** Gain en point **
 
