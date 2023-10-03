@@ -8,7 +8,7 @@ Les appareils utilisés pour les transmissions sont des PMR 446Mhz et max 0,5W d
 - Téléphone portable par équipe avec **la batterie complètement chargée**, une connexion data, l'application de cartographie [what3words](https://what3words.com/products/what3words-app) installée.
 - De quoi écrire (crayon)
 
-Nota: *le team est responsable que le matériel fonctionne pendant la durée du match. Cela équivaut à connexion data, batteries et installation de l'app de carthographie.*
+Nota: *le team est responsable que le matériel fonctionne pendant la durée du match. Cela comprend la connexion data, les batteries des appareils et l'installation préalable de l'app de carthographie.*
 
 # Matériel à préparer par l'organisation
 
