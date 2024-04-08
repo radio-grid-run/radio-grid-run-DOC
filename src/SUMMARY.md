@@ -17,3 +17,8 @@
 
 - [Annexes](./annexes/annexes.md)
     - [Glossaire et définitions](./annexes/definitions.md)
+
+[Further Development](./suggestion.md)
+- [Suggestion](further_dev/work_suggestion.md)
+    - [Problem to solve](further/prob_to_solve.md)
+    - [References](further/references.md)
