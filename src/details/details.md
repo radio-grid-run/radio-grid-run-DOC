@@ -4,3 +4,4 @@
 - [Règles de la manche](./details/round.md)
 - [Règles du contact](./details/contact.md)
 <!-- - [Règles du débriefing](./details/debriefing.md) -->
+- [Scores](./details/scoring.md)
