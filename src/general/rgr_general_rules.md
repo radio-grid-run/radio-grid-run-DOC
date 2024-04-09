@@ -4,4 +4,3 @@
 <!-- - [Rôles](general/roles.md) -->
 - [Equipement](./general/principles.md)
 - [Equipement](./general/equipment.md)
-- [Scores](./general/scoring.md)
