@@ -19,5 +19,4 @@
     - [Glossaire et définitions](./annexes/definitions.md)
 
 - [Suggestion](further_dev/work_suggestion.md)
-    - [Problem to solve](further/prob_to_solve.md)
-    - [References](further/references.md)
+    - [Problem to solve](further_dev/prob_to_solve.md)
