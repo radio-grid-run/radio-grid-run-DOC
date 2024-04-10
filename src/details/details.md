@@ -1,5 +1,5 @@
 # Règles détaillées
 
-- [Règles de la manche](details/round.md)
-- [Règles du contact](details/contact.md)
-- [Scores](details/scoring.md)
+- [Règles de la manche](./round.md)
+- [Règles du contact](./contact.md)
+- [Scores](./scoring.md)
