@@ -27,27 +27,3 @@ L'opérateur annonce le début d'un rendez-vous. Les équipes peuvent appeler d�
 ## Clôture de la manche
 
 Un team doit se présenter au complet à la base au plus 5 minutes après la fin du temps réglementaire. Un retard a pour conséquence une pénalité par membre de l'équipe manquant.
-
-
-## Variantes de manche
-
-### Manche Blitz
-
-** Principe **
-
-La durée totale de la manche est réduite. Il n'y a que 3 rendez-vous. Si une équipe initie le contact dans la fenêtre temporelle du rendez-vous, elle a le droit de terminer le contact jusqu'à 1 minute au-delà du rendez-vous. Il n'est pas possible d'initier un contact après la fin d'un rendez-vous.
-
-Le timing d'un blitz est le suivant:
-- 5min avant le départ: étude de la carte et décision stratégie par équipe
-- 0:00 départ
-- 0:05 à 0:10 (1er *rendez-vous*)
-- 0:15 à 0:20 (2e *rendez-vous*)
-- 0:25 à 0:30 (3e *rendez-vous*)
-- 0:30 fin du temps réglementaire
-- 0:35 dernier délai 
-
-Attention dant un blitz, ne pas pouvoir transmettre de point équivaut à ne pas marquer de point (pas de polygone avec 2 localisation ou moins, donc pas de surface).
-
-** Gain en point **
-
-Il pourrait être intéressant de faire cette manche comme manche supplémentaire à la fin. La surface couverte est ajoutée au total, mais la surface est doublée pour la 1er équipe, et 1x pour la 2e équipe. La 3e et les suivante ne gagne aucune surface supplémentaire.
