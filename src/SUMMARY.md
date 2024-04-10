@@ -5,7 +5,7 @@
 - [Règles du RGR en général](general/rgr_general_rules.md)
     <!-- - [Esprit et objectifs](general/spirit.md)     -->
     <!-- - [Rôles](general/roles.md) -->
-  - [Equipement](general/principles.md)
+  - [Principes du Radio Grid Run](general/principles.md)
   - [Equipement](general/equipment.md)
 
 - [Règles détaillées](details/details.md)

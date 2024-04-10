@@ -1,4 +1,4 @@
 # RGR en général
 
-- [Equipement](general/principles.md)
+- [Principes du Radio Grid Run](general/principles.md)
 - [Equipement](general/equipment.md)
