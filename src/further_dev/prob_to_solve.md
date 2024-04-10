@@ -18,6 +18,10 @@ Expecting the team player to be older enough to operate a cell phone is too rest
 
 Adressing the whole world makes the list of words very big and implies to use uncommon words. As this is overkill for a game that is played by foot and last about 2 hours, another appro would be better suited.
 
+## What3words app on the phone allows to display the locator of any points
+
+A team could try to cheat by transmiting the locator of a position that is not where they actually stand. Thus the rule for the team to provide a screen capture of it's contact positions. It would be easier to restrict the what3words app features to only display the locator of the current position. This does not seem to be possible. Using a custom application would allow that.
+
 ## Suggested alternativ approach
 
 In order to solve this problems, an altenative framework to what3words is necessary. There are some exemples like this one: [https://github.com/Placeware/ThisPlace](ThisPlace)
