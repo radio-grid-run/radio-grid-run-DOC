@@ -2,7 +2,7 @@
 
 ## Base
 
-Station radio centrale avec laquelle les teams doivent communiquer pour valider un contact. 
+Station radio centrale avec laquelle les teams doivent communiquer pour valider un contact.
 
 ## Team
 
@@ -18,7 +18,7 @@ Le territoire d'un team est constitué de l'espace délimité en reliant les coo
 
 ## Rendez-vous
 
-Une fenêtre de temps pendant laquelle la base répond aux teams pour valider des contacts. Ces rendez-vous ont un durée définie et sont en nombre limité pendant une manche. 
+Une fenêtre de temps pendant laquelle la base répond aux teams pour valider des contacts. Ces rendez-vous ont un durée définie et sont en nombre limité pendant une manche.
 
 ## Opérateur
 
