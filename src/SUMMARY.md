@@ -20,5 +20,5 @@
 # Annexes
 - [Glossaire et définitions](annexes/definitions.md)
 
-# [Suggestion](further_dev/work_suggestion.md)
+# Suggestions
   - [Problem to solve](further_dev/prob_to_solve.md)
