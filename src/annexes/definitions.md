@@ -12,6 +12,10 @@ C'est une équipe concoure dans le jeu. Elle est composée à priori de plusieur
 
 Echange effectué par radio entre la base et un team où la position de ce dernier est transmise. Les contacts doivent impréativement avoir lieu pendant la durée de l'un des rendez-vous de la manche.
 
+## Lieu
+
+Un lieu activé est un point géographique à partir duquel le team a réussi une communication radio avec la base.
+
 ## Territoire
 
 Le territoire d'un team est constitué de l'espace délimité en reliant les coordonnées géographiques des positions à partir desquels celui-ci est parvenu à transmettre à la base sa position.
