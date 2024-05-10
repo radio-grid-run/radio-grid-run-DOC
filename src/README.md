@@ -29,3 +29,5 @@ September 26, 2023
 [Author's ham radio operator personal page](https://www.qrz.com/db/hb9hwf)
 
 For further information about the rules and the sport itself: [info@radiogrid.run](mailto://info@radiogrid.run)
+
+### Rule version: 1.0
