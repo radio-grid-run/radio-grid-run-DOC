@@ -1,23 +1,23 @@
-# Règles du contact
+# Contact rules
 
-## Déroulement d'un contact
+## Contact sequence
 
-Les équipes transmettent à la base le code w3w de différentes localisations pour dessiner le plus grand polygone possible autour d'elle.
+Teams send the w3w code of different locations to the base to draw the largest possible polygon around it.
 
-Un *contact* doit se passer de la manière suivante pour être validé:
+A *contact* must take place as follows to be validated:
 
-1) le code w3w valide est reçu par la base
-2) la transmission a eu lieu pendant les rendez-vous autorisés
-3) l'équipe n'a pas le droit de se déplacer pendant tout le temps du contact.
-4) Pour prouver qu'elle est bien à l'endroit prévu, l'équipe fournit une capture d'écran de l'application what3words à l'arbitre avec le w3w correspondant et l'heure correspondant au contact.
-5) L'équipe a rempli sa feuille de route de manière complète et lisible.
+1) the valid w3w code is received by the base station
+2) transmission has taken place during authorized appointments
+3) *the team is not allowed to move during the entire contact time*.
+4) To prove that they are at the correct location, the team provides a screenshot of the w3w application to the referee with the corresponding 3-word code and the time corresponding to the contact.
+5) The team has filled in its route sheet completely and legibly.
 
-L'arbitre est seul juge pour déterminer si un contact est valide.
+The referee is the sole judge of whether a contact is valid.
 
-## Transmettre sa position
+## Transmit position
 
-Les coordonnées de l'équipe sont transmis sous la forme d'une code de 3 mots. Il correspond à un what3word [https://what3words.com](https://what3words.com) fournit par une application gratuite sur le natel des participants. Exemple:
+The team's coordinates are transmitted in the form of a 3-word code. It corresponds to a what3word [https://what3words.com](https://what3words.com) provided by a free application on the participants' cell phones. Example:
 
     ///coéditeur.visitant.paradisiaque
 
-Ce dernier correspond à la position du Refuge scout du Bois de l'Asse (46.931207,7.022492). Chaque code correspond à trois carrés de 3 mètres x 3 mètres quelque part sur la suface de la planète. Deux de ces trois correspondances peuvent être aisément éliminées par plausibilité. Par exemple, le locateur mentionné ci-dessus réfère également un carré dans le désert du Sahel et l'autre dans le Pacifique nord. Accepter d'avoir à faire cette opération supplémentaire permet de réduire le vocabulaire nécessaire pour disposer de code de 3 mots pour la surface entière du globe.
+The latter corresponds to the position of a scout refuge (46.931207,7.022492). Each code corresponds to three 3-metre x 3-metre squares somewhere on the planet's surface. Two of these three matches can be easily eliminated by plausibility. For example, the above-mentioned locator also refers to one square in the Sahel desert and the other in the North Pacific. Accepting this additional operation reduces the vocabulary needed to code 3 words for the entire surface of the globe.

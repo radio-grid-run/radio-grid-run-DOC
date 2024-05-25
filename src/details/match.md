@@ -1,5 +1,5 @@
-# Règles du match
+# Match Rules
 
-## Variantes de match
+## Match Variations
 
-Le match peut se dérouler de différentes manières en fonction du nombre et du type des manches qui se jouent. Les types de manches sont décrites.
+The match can be played in different ways, depending on the number and type of rounds played. The types of rounds are described below.

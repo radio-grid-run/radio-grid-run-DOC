@@ -1,21 +1,20 @@
 # Scores
 
-Le score des équipes est calculé à partir de la surface du polygone délimité par les contacts qu'une équipe a réalisés. Il faut au moins 3 contacts pour marquer des points.
+Team scores are calculated from the area of the polygon delimited by the contacts made by a team. At least 3 contacts are required to score points.
 
-Le match se joue en 2 manches. Les scores pour chaque manche sont:
+The match is played in 2 rounds. The scores for each round are:
 
-- premier = 3 points
-- second = 2 points
-- troisième = 1 point
-- quatrième et suivants = pas de point
+- four contacts = 4 points
+- three contacts = 3 points
+- two contacts = 2 points
+- 1 contact or no contact = no points
 
-Si à l'issue des 2 manches des équipes sont à égalité de point, on les départagent en additionnant toutes les surfaces de leurs territoires.
+If, at the end of the 2 rounds, the teams are tied on points, the tie is broken by adding up all the areas in their territories.
 
-## Pénalités
+## Penalties
 
-3 pénalités équivalent à une réduction de 10% de la surface du terrain.
+3 penalties are equivalent to a 10% reduction in conquered area.
 
-Une équipe reçoit une pénalité dans les cas suivants:
+A team receives a penalty in the following cases:
 
-- une équipe parle à la radio sans s'annoncer au préalable. Le contenu d'un message sans le nom de l'équipe pour commencer est ignoré.
-- un membre de l'équipe ne revient pas dans les temps à la base après le dernier rendez-vous. Si l'équipe compte 4 membres, cela équivaut à 4 pénalités.
+- a team member fails to return to base on time after the last rendezvous. If the team has 4 members, this is equivalent to 4 penalties.

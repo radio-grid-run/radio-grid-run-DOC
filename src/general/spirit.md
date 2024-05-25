@@ -1,7 +1,7 @@
-# Esprit
+# Spirit
 
-## Politesse durant la communication
+## Politeness in communication
 
-L'état d'esprit des communication doit être la politesse. Les teams doivent en tout temps s'arranger pour que les échanges se passent de manière fluide. Les équipes doivent s'annoncer impérativement à chaque émission. Si un signal est émis sans identification dans le but de bloquer la fréquence ou pour toute autre raison assimilée à de l'anti-jeu, l'arbitre peut distribuer une pénalité à l'équipe incriminée.
+The spirit of communication must be polite. At all times, teams must ensure that exchanges run smoothly. Teams must announce themselves for each transmission. If a signal is transmitted without identification with the aim of blocking the frequency or for any other reason deemed to be anti-gambling, the referee may hand out a penalty to the offending team.
 
-L'opérateur et l'arbitre veillent à ce que les team aient le temps nécessaire pour établir leur contact pendant un rendez-vous, même si cela implique de poursuivre un contact au-delà de la durée normale d'un rendez-vous.
+The operator and referee ensure that teams have sufficient time to establish contact during an appointment, even if this means continuing contact beyond the normal duration of an appointment.

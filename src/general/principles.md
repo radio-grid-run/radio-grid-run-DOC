@@ -1,33 +1,33 @@
-# Principes du Radio Grid Run
+# Radio Grid Run principles
 
-## 1. Buts
+## 1. Goals
 
-Le Radio Grid Run se joue à partir d'une [base](definitions.md#Base) de réception où se trouve un·e [opérateur·trice](definitions.md#Opérateur) qui est à l'écoute. Des équipes de 2-3 personnes ([teams](definitions.md#Team)) s'affrontent.
+Radio Grid Run is played from a [base](definitions.md#Base) where an [operator](definitions.md#Operator) is listening in. Teams of 2-3 people ([teams](definitions.md#Team)) compete against each other.
 
-Selon un timing limité, le team tente d'établir avec son talkie-walkie le [contact](definitions.md#Contact) avec la base par ses transmissions. Chacune de ses transmissions réussies fait gagner à l'équipe un [lieu activé](definition.md#Lieu). étend son [territoire](definitions.md#Terrain) autour de la base. Le team avec le territoire le plus étendu gagne la manche. Le jeu se joue en plusieurs manches.
+Each team uses its walkie-talkie to establish [contact](definitions.md#Contact) with the base through its transmissions. Each successful transmission earns the team an [activated location](definitions.md#Location) and extends its [territory](definitions.md#Terrain). The team with the largest territory wins the round. The game is played over several rounds.
 
-Le territoire est un polygone délimité par les lieux activés par un team. Certains lieux peuvent être imposés à l'équipe ou offrir des bonus particuliers.
+The territory is a polygon delimited by the locations activated by a team. Certain locations can be imposed on the team, or offer special bonuses. The game is played in generally 2 rounds. Territories are not kept between rounds.
 
-L'exercice est pimenté par le fait que les fenêtres de temps (ci-après [rendez-vous](definitions.md#Rendez-vous)) pendant lesquels la base valide les contacts sont limitées. Ces contraintes de temps strictes imposent aux équipes de faire des choix tactiques sur son cheminement dans le terrain. De plus, il est impératif de maintenir le contact avec la base pour pouvoir transmettre sa position le moment venu.
+The exercise is spiced up by the fact that the time windows (hereafter [rendezvous](definitions.md#Rendezvous)) during which the base validates contacts are limited. These strict time constraints mean that teams have to make tactical choices about their path through the field. In addition, it is imperative to maintain contact with the base to be able to transmit its position when the time comes.
 
-## 2. Principes
+## 2. Principles
 
-### Equipement
+### Equipment
 
-Les appareils utilisés pour les transmissions sont des talkie-walkie grand public (PMR446) de maximum 0,5W de puissance d'émission.
+The devices used for transmissions are consumer walkie-talkies (PMR446) with a maximum transmitting power of 0.5W.
 
-### Equipes
+### Teams
 
-Pour jouer il faut au minimum 3 équipes de 2 joueurs et un opérateur pour la *base* et un responsable du journal.
+To play, you need at least 3 teams of 2 players and an operator for the *base* and a log manager.
 
-### Mise en place
+### Set-up
 
-La base est tenu par un responsable. Les teams débutent une manche en partant de la base l'une après l'autre selon un planning de départ pré-déterminé.
+The base is manned by an operator. Teams start each round from the base, one after the other, according to a pre-determined schedule.
 
-### Déroulement du jeu
+### Game progress
 
-La manche est composée d'un certain nombre de moments de rendez-vous qui sont assignés spécifiquement à chaque équipe. Entre chacun de ces moments, l'équipe est libre de se déplacer comme elle le souhaite afin de maximiser son territoire. Après le dernier rendez-vous, les team ont un temps limité pour revenir à la base. Le jeu se termine après un débriefing formel mené par un arbitre.
+The round is made up of a certain number of rendezvous time windows specifically assigned to each team. Between each of these moments, the team is free to move as it wishes in order to maximize its territory. After the last rendezvous, teams have a limited time to return to base. The game ends after a formal debriefing led by a referee.
 
-Les territoires des équipes sont calculés et comparés visuellement.
+Team territories are calculated and visually compared. The python script [rgrHelper](https://github.com/radio-grid-run/rgrHelper) is designed specifically for this purpose.
 
-![Territoire comparés de deux team](images/googleEarthPro_displayResults.png)
+![Sample territories of two teams](images/googleEarthPro_displayResults.png)
