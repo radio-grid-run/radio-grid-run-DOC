@@ -1,33 +1,36 @@
-# Glossaire et définitions
+# Glossary and definitions
 
 ## Base
 
-Station radio centrale avec laquelle les teams doivent communiquer pour valider un contact.
+Base station manned by a radio operator with which teams must communicate to validate a contact.
 
 ## Team
 
-C'est une équipe concoure dans le jeu. Elle est composée à priori de plusieurs membres.
+A team competing in the game. It is made up of several members.
 
 ## Contact
 
-Echange effectué par radio entre la base et un team où la position de ce dernier est transmise. Les contacts doivent impréativement avoir lieu pendant la durée de l'un des rendez-vous de la manche.
+A radio exchange between the base station and a team in which the team's position is transmitted in form of a grid square locator (basically a code). Contacts must take place during one of the round's appointments.
 
-## Lieu
+## Location
 
-Un lieu activé est un point géographique à partir duquel le team a réussi une communication radio avec la base.
+An activated location is a geographical point from which the team has successfully made radio contact with the base.
 
-## Territoire
+## Territory
 
-Le territoire d'un team est constitué de l'espace délimité en reliant les coordonnées géographiques des positions à partir desquels celui-ci est parvenu à transmettre à la base sa position.
+A team's territory is the area delimited by the geographical coordinates from which it has succeeded in transmitting its position to the base.
 
-## Rendez-vous
+## Rendezvous
 
-Une fenêtre de temps pendant laquelle la base répond aux teams pour valider des contacts. Ces rendez-vous ont un durée définie et sont en nombre limité pendant une manche.
+A window of time during which the base responds to teams to validate contacts. These appointments have a defined duration and are limited in number during a round.
 
-## Opérateur
+## Operator
 
-C'est l'opérateur·trice qui parle par radio à partir de la base.
+The operator who answers by radio from the base to the teams calls.
 
-## Geocode
+## Grid Square Locator
 
-Code de 3 mots ([what3words](https://what3words.com)) comme par exemple ``///coéditeur.visitant.paradisiaque``  qui correspond à un espace carré de 3 mètres de côté. Il est associé à une coordonnée WG84 à l'aide d'une [API](https://developer.what3words.com/public-api/docs) développée par what3words Ltd.
+There are several different ways to implement a code that reference a geographical position. For the moment, we suggest to use the 
+3-word code ([what3words](https://what3words.com)) such as ``///coeditor.visiting.paradisiac`` which corresponds to a 3-meter square space. It is associated with a WG84 coordinate using an [API](https://developer.what3words.com/public-api/docs) developed by what3words Ltd.
+
+In the future, we plan to simplify this system by using a predefined local square grid system that would cover only a small perimeters around the base. The WGS84 geodetic position of the teams is in this case deduced by using the base reference position.

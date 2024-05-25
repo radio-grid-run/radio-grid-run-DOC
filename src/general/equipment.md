@@ -1,22 +1,22 @@
-# Equipement
+# Equipment
 
-Les appareils utilisés pour les transmissions sont des PMR 446Mhz et max 0,5W de puissance d'émission.
+The equipment used for transmissions is PMR 446Mhz and max 0.5W transmitting power.
 
-## Matériel de la responsabilité des teams
+## Teams are responsible for their own equipment
 
-- un talkie-walkie (PMR446) avec **la batterie complètment chargée** TODO: déterminer la gamme de fréquence à utiliser (LDP, PMR canaux traditionnels ou PMR nouveaux canaux)
-- Téléphone portable par équipe avec **la batterie complètement chargée**, une connexion data, l'application de cartographie [what3words](https://what3words.com/products/what3words-app) installée.
-- De quoi écrire (crayon)
+- a walkie-talkie (PMR446) with **fully charged battery** TODO: determine the frequency range to be used (LDP, PMR traditional channels or PMR new channels)
+- Cell phone per team with **fully charged battery**, data connection, mapping application [what3words](https://what3words.com/products/what3words-app) installed.
+- Writing utensils (pencil)
 
-Nota: *le team est responsable que le matériel fonctionne pendant la durée du match. Cela comprend la connexion data, les batteries des appareils et l'installation préalable de l'app de carthographie.*
+Note: *the team is responsible for ensuring that the equipment is operational for the duration of the match. This includes data connection, device batteries and prior installation of the cartography app.
 
-## Matériel à préparer par l'organisation
+## Material to be prepared by the organization
 
-- Carte imprimée par équipe de la zone de jeu (pour la stratégie)
-- Ordinateur pour décompter la surface du territoire de chaque équipe à la fin du jeu. Le script python [rgrHelper](https://github.com/radio-grid-run/rgrHelper) est conçu spécifiquement à cet usage.
-- Autan de chronomètres qu'il y a d'équipes pour l'arbitre.
+- Printed map of the playing area for each team (for strategy)
+- Computer to count the surface area of each team's territory at the end of the game. The python script [rgrHelper](https://github.com/radio-grid-run/rgrHelper) is designed specifically for this purpose. Be aware the [https://developer.what3words.com/public-api](what3words public api) is only free until a certain number of API calls per month. It should be enough to play, but while testing and developping the limit can be easily reach.
+- As many stopwatches as there are teams for the referee.
 
-## Matériel optionnel
+## Optional equipment
 
-- Les équipes peuvent utiliser un chronomètre pour avoir une information précise du timing de la manche.
-- Enregistrer les communications de la fréquence du jeu permet de résoudre les litiges et les évenutels incompréhensions entre base et team.
+- Teams can use a stopwatch to obtain precise timing information for the round.
+- Recording game frequency communications helps resolve disputes and possible misunderstandings between base and team.

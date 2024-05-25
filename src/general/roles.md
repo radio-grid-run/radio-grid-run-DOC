@@ -1,17 +1,19 @@
-# Rôles
+# Roles
 
-## Opérateur
+## Operator
 
-_L'opérateur_ de la base décompte chaque minute le temps restant jusqu'au prochain rendez-vous. Il donne la parole aux équipes de manière équitable pendant le rendez-vous. Il répète le code w3w reçu pour valider dans [l'alphabète phonétique international](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_de_l%27OTAN).
+The base operator counts down the time remaining until the next appointment. He gives the floor to the teams equally during the appointment. Repeats the 3-word code code received to validate in [international phonetic alphabet](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_de_l%27OTAN).
 
-## Responsable du journal
+## Log manager
 
-Le responsable du journal (loggeur)_ accompagne l'opérateur à la base. Il tient à jour le temps de la manche (choronomètre) et rempli le journal (log) de la base.
+The logger accompanies the operator to the base. He keeps the run time up to date (choronometer) and fills in the base log.
 
-## Arbitre
+## Referee
 
-L'arbitre écoute les échanges radio à partir de n'importe quel point du terrain et veille au respect des règles. Il fait un rapport à la fin de la partie sur la qualité des transmissions. On peut déposer une protestation auprès de l'arbitre si une équipe, ou la base a eu un comportement anti-jeu sur les ondes, où si une équipe s'est déplacée pendant sa transmission.
+The referee listens to the radio exchanges from any point on the field and ensures that the rules are respected. At the end of the game, he reports on the quality of transmissions. A protest can be lodged with the referee if a team or the base has behaved in an anti-game manner on the air, or if a team has moved during its transmission.
 
-## Membre d'un team
+Recording game frequency communications helps resolve disputes and possible misunderstandings between base and team.
 
-Un·e membre d'une équipe peut appeler la base pour donner sa position pendant les rendez-vous. Tout au long de l'appel, il a l'interdiction de se déplacer. A la fin du dernier rendez-vous prévu, il a un temps limité pour retourner à la base avec toute son équipe.
+## Team member
+
+A team member may call the base to give his or her position during appointments. *During the call, he/she is forbidden to move*. At the end of the last scheduled appointment, he has a limited time to return to base with his entire team.

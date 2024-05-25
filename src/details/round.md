@@ -1,29 +1,29 @@
-# Règles de la manche
+# Round rules
 
-## Déroulement d'une manche
+## Flow of an round
 
-Une manche débute à la base et se termine à la base après que l'ensemble des équipes aient réalisés leur run. Le départ des équipes est échelonné dans le temps et les fenêtres de contacts de chaque équipe sont minutées pour se succéder. La fréquence de contact est ainsi à disposition d'une équipe à la fois.
+An round begins at the base and ends at the base after all teams have completed their runs. Teams start at staggered times, and each team's rendezvous are timed to follow one another. The contact frequency is thus available to one team at a time.
 
-Le déroulement temporel d'une manche se passe comme suit:
+The time sequence of a run is as follows:
 
-Pour chaque équipe:
+For each team:
 
-- 5 minutes avant le départ: l'équipe reçoit une carte du terrain de jeu et peut choisir une stratégie pour son parcours
-- 0:00 départ
-- 0:15 à 0:20 (1er *rendez-vous*)
-- 0:30 à 0:35 (2e *rendez-vous*)
-- 0:45 à 0:50 (3e *rendez-vous*)
-- 0:55 à 1:00 (rendez-vous bonus)
-- 1:00 fin du temps réglementaire
-- 1:05 dernier délai pour le retour à la base
-- 1:05-1:15 débriefing
+- 5 minutes before the start: the team receives a map of the surroundings and can choose a strategy for its course.
+- 0:00 start
+- 0:15 to 0:20 (1st *rendezvous*)
+- 0:30 to 0:35 (2nd *rendezvous*)
+- 0:45 to 0:50 (3rd *rendezvous*)
+- 0:55 to 1:00 (bonus *rendezvous*)
+- 1:00 end of regulation time
+- 1:05 final deadline for return to base
+- 1:05-1:15 debriefing
 
-Les équipes se déplacent et transmettent à la base le code w3w de différentes localisations pour dessiner le plus grand polygone possible autour d'elle.
+Teams move around and transmit 3-word code code from different locations to the base to draw the largest possible polygon around it.
 
-Le timing de la manche est rythmé par l'opérateur qui annonce par radio une fois par minute le temps restant et le nom de l'équipe qui a le prochain rendez-vous (ci-après heartbeat). Les équipes peuvent ainsi vérifier si elles sont toujours à portée d'émission.
+The timing of the round is set by the operator, who announces by radio once a minute the time remaining and the name of the team with the next appointment (hereinafter heartbeat). This allows teams to check whether they are still within range.
 
-L'opérateur annonce le début d'un rendez-vous. Les équipes peuvent appeler dès qu'elles sont prêtes. L'opérateur initie un *contact* en donnant la parole à l'une des équipes qui l'appelle avec les mots "Team XXX, à vous". Le *team* transmet ses 3 mots. La base répète les mots reçus dans l'aphabète radio pour confirmer. L'équipe doit confirmer. La base clôt un *contact* en émettant les mots "base à l'écoute". Elle est alors disponible pour l'équipe suivante.
+The operator announces the start of an appointment. Teams can call as soon as they are ready. The operator initiates a *contact* by giving the floor to one of the teams calling with the words "Team XXX, over to you". The *team* must transmits its 3-word code. The base station repeats the words received in the radio alphabet to confirm. The team must acknowledge. The base closes a *contact* by transmitting the words "base listening". It is then immediatly available for the next team. in this way, the contact window for the next team is extended accordingly.
 
-## Clôture de la manche
+## End of round
 
-Un team doit se présenter au complet à la base au plus 5 minutes après la fin du temps réglementaire. Un retard a pour conséquence une pénalité par membre de l'équipe manquant.
+A team must present itself in full at the base no later than 5 minutes after the end of the official end time. A late arrival will result in a penalty for each team member missing. Please note, that the official end time is staggered between the teams depending on the order they started. Every teams has the same amount of time for the run.
