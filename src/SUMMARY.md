@@ -11,7 +11,7 @@
 - [Spirit and objectives](general/spirit.md)    
 - [Roles](general/roles.md)
 
-# Règles détaillées
+# Rules
 
 - [Round Rules](details/round.md)
 - [Contact Rules](details/contact.md)
